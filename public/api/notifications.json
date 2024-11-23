@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "message": "따땃한 구름 멘토 님이 NodeJS 멘토링 가입을 수락했어요",
+      "isNew": true,
+      "type": "수락",
+      "userId": 123
+    },
+    {
+      "id": 2,
+      "message": "하얀 구름 멘토 님이 당도 평가를 남겨 주셨어요",
+      "isNew": true,
+      "type": "당도 평가",
+      "userId": 124
+    },
+    {
+      "id": 6,
+      "message": "새파란 구름 멘티 님이 'React' 멘토링을 신청했어요",
+      "isNew": true,
+      "type": "신청",
+      "userId": 125
+    },
+    {
+      "id": 3,
+      "message": "새파란 구름 멘토 님이 React 멘토링을 거절했어요",
+      "isNew": false,
+      "type": "거절",
+      "userId": 125
+    },
+    {
+      "id": 4,
+      "message": "하이얀 구름 멘토 님이 당도 평가를 남겨주셨어요",
+      "isNew": false,
+      "type": "당도 평가",
+      "userId": 126
+    }
+  ]
+  

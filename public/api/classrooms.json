@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "name": "강의실 A",
+      "description": "설명",
+      "buttons": [
+        {
+          "label": "강의실 바로가기"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "강의실 B",
+      "description": "설명",
+      "buttons": [
+        {
+          "label": "강의실 바로가기"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "강의실 C",
+      "description": "설명",
+      "buttons": [
+        {
+          "label": "강의실 바로가기"
+        }
+      ]
+    }
+  ]
+  

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "따땃한 구름",
+    "introduction": "한줄 소개",
+    "keywords": ["열정적인", "친절한"],
+    "position": "멘토",
+    "image": "/logo.svg"
+  },
+  {
+    "id": 2,
+    "name": "따뜻한 구름",
+    "introduction": "한줄 소개",
+    "keywords": ["열정적인", "친절한"],
+    "position": "멘티",
+    "image": "/logo.svg"
+  },
+  {
+    "id": 3,
+    "name": "차가운 구름",
+    "introduction": "한줄 소개",
+    "keywords": ["열정적인", "친절한"],
+    "position": "멘토",
+    "image": "/logo.svg"
+  },
+  {
+    "id": 4,
+    "name": "뜨거운 구름",
+    "introduction": "한줄 소개",
+    "keywords": ["열정적인", "친절한"],
+    "position": "멘티",
+    "image": "/logo.svg"
+  },
+  {
+    "id": 5,
+    "name": "엉뚱한 구름",
+    "introduction": "한줄 소개",
+    "keywords": ["열정적인", "친절한"],
+    "position": "멘토",
+    "image": "/logo.svg"
+  },
+  {
+    "id": 6,
+    "name": "자유분방한 구름",
+    "introduction": "한줄 소개",
+    "keywords": ["열정적인", "친절한"],
+    "position": "멘티",
+    "image": "/logo.svg"
+  }
+]
