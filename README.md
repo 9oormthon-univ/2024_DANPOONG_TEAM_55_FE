@@ -1,71 +1,63 @@
-# Getting Started with Create React App
+![image](https://github.com/user-attachments/assets/3e5fe991-bd1e-4378-8050-d7db72f9a194)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# **당신만을 위한 맞춤형 멘토링 플랫폼, Somtoring**
 
-## Available Scripts
+## **1. 프로젝트 개요**
 
-In the project directory, you can run:
+- **VARKI 모델을 기반으로 사용자의 학습 스타일과 성향을 분석하여 최적의 멘토를 매칭**하는 맞춤형 멘토링 플랫폼
+- 기존의 **VARK 모델을 차용하여 발전시킨 ‘VARKI 모델’**을 적용해, 단순 학습 스타일뿐만 아니라 성향까지 분석하여 최적의 멘토·멘티를 추천
+- **멘토링 활동에 대한 평가 시스템(솜사탕 게이지 & 당도 시스템) 도입**으로 지속적인 멘토멘티 자격 관리
+- 팀빌딩부터 기획, 디자인, 개발까지 **서비스 전반에 걸쳐 참여**
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## **2. 기술 스택**
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### **Frontend**
 
-### `npm test`
+- **React.js + Vite**: 빠른 개발 속도와 최적화된 빌드 환경 구축
+- **TypeScript**: 안정적인 코드 작성 및 유지보수성 향상
+- **Styled-components**: 컴포넌트 기반 스타일링 적용
+- **Swagger API 연동**: 백엔드와의 데이터 통신 구현
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### **DevOps & Collaboration**
 
-### `npm run build`
+- **GitHub**: 코드 관리 및 협업
+- **Figma**: UI/UX 디자인 총괄
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## **3. 개발 역할**
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### **1) 서비스 기획 및 디자인**
 
-### `npm run eject`
+- **초기 팀빌딩 및 서비스 기획 주도**
+- **VARKI 모델 도입 및 알고리즘 기획 참여**
+    - 사용자의 학습 스타일과 성향을 분석하여 **가장 적합한 멘토·멘티 매칭**
+    - 간단한 질문을 통해 학습 스타일 및 성향 파악
+    - **V, A, R, K, I 요소별 가중치를 반영한 알고리즘**을 활용해 신뢰도 높은 추천 시스템 구축
+- **브랜드 아이덴티티 구축 및 디자인 기획**
+    - **서비스 캐치프라이즈 선정** 및 로고 디자인 제작
+    - **굿즈(키링, 스티커) 디자인 및 발주**
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### **2) 멘토링 평가 시스템 설계**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- **‘솜사탕 게이지’ & ‘당도’ 평가 시스템 개발**
+    - **멘토링 활동 횟수 및 평가 점수에 따라 솜사탕 아바타의 크기와 모양 변화**
+    - ‘당도’라는 시각적 차트를 통해 **멘토·멘티의 신뢰도 및 성과를 한눈에 확인**
+    - 당근마켓의 ‘온도 평가’처럼 체크박스를 활용하여 **사용자의 강점 및 보완점 피드백 제공**
+    - 평가 데이터가 반영된 **당도 게이지를 활용해 지속적인 신뢰도 관리**
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### **3) 프론트엔드 개발**
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- 웹 페이지 **React.js 기반 개발**
+- **Swagger API 연동**을 통해 백엔드와의 데이터 통신 구현
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## **4. 성과 및 학습 경험**
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-#Mentoring_FE
+- **팀빌딩부터 서비스 기획, 디자인, 개발까지 전 과정 참여하며 프로젝트 운영 경험 축적**
+- **VARKI 모델을 활용한 사용자 맞춤형 추천 시스템 기획 및 개발**
+- **멘토링 평가 시스템 설계를 통해 장기적인 사용자 신뢰도 및 서비스 지속성 확보**
+- **React.js 개발 및 UI/UX 디자인**
